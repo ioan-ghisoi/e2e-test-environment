@@ -12,4 +12,4 @@ $ npm install
 $ npm start
 ```
 
-![alt text](https://media.giphy.com/media/3oKIPx6eiclmopGPgk/giphy.gif)
+![alt text](http://img.pixady.com/2017/07/514999_ezgif.comresize_1.gif)
