@@ -1,25 +1,25 @@
 {
-  "name": "e2e-test-environment",
-  "version": "1.0.0",
-  "description": "e2e test environment with chimp cucumber and html reporter",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ioan-ghisoi/e2e-test-environment.git"
-  },
-  "keywords": [
-    "e2e",
-    "chimp",
-    "cucumber",
-    "webdriverio"
-  ],
-  "author": "ioan ghisoi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ioan-ghisoi/e2e-test-environment/issues"
-  },
-  "homepage": "https://github.com/ioan-ghisoi/e2e-test-environment#readme"
+    "name": "e2e-test-environment",
+    "version": "1.0.0",
+    "description": "e2e test environment with chimp cucumber and html reporter",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ioan-ghisoi/e2e-test-environment.git"
+    },
+    "keywords": [
+        "e2e",
+        "chimp",
+        "cucumber",
+        "webdriverio"
+    ],
+    "author": "ioan ghisoi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ioan-ghisoi/e2e-test-environment/issues"
+    },
+    "homepage": "https://github.com/ioan-ghisoi/e2e-test-environment#readme"
 }
